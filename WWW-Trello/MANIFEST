@@ -1,0 +1,9 @@
+Changes
+ignore.txt
+lib/WWW/Trello.pm
+lib/WWW/Trello/Board.pm
+lib/WWW/Trello/Error.pm
+lib/WWW/Trello/Utility.pm
+Makefile.PL
+MANIFEST			This list of files
+README
